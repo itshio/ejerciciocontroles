@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">ejercicio controles</string>
+    <string name="ver_pedido">ver pedido</string>
+    <string name="primer_plato">Primer plato</string>
+    <string name="segundo_plato">Segundo plato</string>
+    <string name="sopa">sopa</string>
+    <string name="ensalada">Ensalada</string>
+    <string name="nachos">Nachos</string>
+    <string name="pescado">Pescado</string>
+    <string name="carne">Carne</string>
+    <string name="bebidas">Bebida</string>
+    <string name="si">Si</string>
+    <string name="no">No</string>
+
+</resources>
