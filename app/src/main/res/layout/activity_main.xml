@@ -123,12 +123,22 @@
                 android:layout_weight="1"
                 android:text="@string/no" />
         </RadioGroup>
+
     </RelativeLayout>
 
     <LinearLayout
         android:layout_width="match_parent"
         android:layout_height="match_parent"
         android:orientation="vertical">
+
+        <Spinner
+            android:id="@+id/spbebidas"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_above="@+id/txt_bebida"
+            android:layout_alignParentEnd="true"
+            android:layout_alignParentRight="true"
+            android:layout_marginBottom="33dp" />
 
         <Button
             android:id="@+id/boton"
